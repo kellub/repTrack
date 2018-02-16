@@ -1,0 +1,6 @@
+<strings>
+    <string id="AppName">repTrack</string>
+    <string id="phonePrompt">Connect to Phone</string>
+    <string id="grabBarPrompt">Grab Bar</string>
+    <string id="startRepPrompt">Count Rep(s)</string>
+</strings>

@@ -1,0 +1,4 @@
+<layout id="connectToPhoneLayout">
+    <bitmap id="bb" x="center" y="30" filename="../drawables/bb.png" />
+    <label x="center" y="5" text="@Strings.phonePrompt" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" ></label>
+</layout>
